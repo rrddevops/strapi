@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Rodrigo Daivla</h1>
+<h1 align="center">Hi 👋, I'm Rodrigo Davila</h1>
 <h3 align="center">Projeto Strapi - Docker e K8s</h3>
 
 <h3 align="left">Connect with me:</h3>
