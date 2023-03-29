@@ -5,10 +5,10 @@
 
 #################setup########## </br>
 - install [git](https://git-scm.com/downloads)
-- install  [chocolatey](https://chocolatey.org/install)
+- install [chocolatey](https://chocolatey.org/install)
 - install [vscode](https://code.visualstudio.com/download)
-- docker install [docker](https://docs.docker.com/engine/reference/commandline/)
-- minikube install [minikube](https://minikube.sigs.k8s.io/docs/start/)
+- install [docker](https://docs.docker.com/engine/reference/commandline/)
+- install [minikube](https://minikube.sigs.k8s.io/docs/start/)
 
 **yarn and nodejs**
 choco install nodejs-lts
