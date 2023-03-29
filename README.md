@@ -15,9 +15,9 @@ choco install nodejs-lts
 choco install yarn
 
 ##########run app###################### </br>
-yarn create strapi-app strapi --quickstart
-yarn add @strapi/plugin-documentation
-yarn develop
+yarn create strapi-app strapi --quickstart </br>
+yarn add @strapi/plugin-documentation </br>
+yarn develop </br>
 
 ##########consumo da api######################## </br>
 
