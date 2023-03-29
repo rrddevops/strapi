@@ -4,7 +4,7 @@
 - 🔭 O Strapi é um Serviço de Gerenciamento de Conteúdo (Content Management Service, ou CMS, em inglês) open-source e headless. Ele permite ao usuário criar APIs de alta qualidade em Javascript, tudo através de uma interface gráfica do usuário, simples e direta. [Strapi](https://docs.strapi.io/dev-docs/installation/cli)
 
 #################setup##########
-- install git (https://git-scm.com/downloads)
+- install git [git](https://git-scm.com/downloads)
 - install chocolatey [chocolatey](https://chocolatey.org/install)
 - install vscode (https://code.visualstudio.com/download)
 - docker install [docker](https://docs.docker.com/engine/reference/commandline/)
@@ -21,14 +21,14 @@ yarn develop
 
 ##########consumo da api########################
 
-<a--Windows:</a>
+--Windows: </br>
 Invoke-RestMethod -Uri http://localhost:1337/api/cadastros -Method GET -Headers @{
     Authorization = 'Bearer 4c1936c985f5014dbbbe3d1511b9c005cd2cdde9471d06527dc01d210f6cd6e43b7e71a52df3d6c3c7a484a52f4b434f32695f80229d369dbdfdd7bc866a84e0c67aff6883b0a1fa02239bec02a0136446dcfda00aae6a205ef268ed7ea8f06ac7818a39eb1509e6a40cd79d01d897be018da80a7fe5779a35597698a70df1fb'
     'Content-Type' = 'application/json'
     Accept = 'application/json'
 } | ConvertTo-Json
 
-<a--linux:</a>
+--linux: </br>
 curl -X 'GET' \
   'http://192.168.5.82:1337/api/cadastros' \
   -H 'accept: application/json' \
