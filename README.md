@@ -10,7 +10,7 @@
 - install [docker](https://docs.docker.com/engine/reference/commandline/)
 - install [minikube](https://minikube.sigs.k8s.io/docs/start/)
 
-**yarn and nodejs** </br>
+**install yarn and nodejs** </br>
 choco install nodejs-lts </br>
 choco install yarn </br>
 
