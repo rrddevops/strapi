@@ -10,9 +10,9 @@
 - install [docker](https://docs.docker.com/engine/reference/commandline/)
 - install [minikube](https://minikube.sigs.k8s.io/docs/start/)
 
-**yarn and nodejs**
-choco install nodejs-lts
-choco install yarn
+**yarn and nodejs** </br>
+choco install nodejs-lts </br>
+choco install yarn </br>
 
 ##########run app###################### </br>
 yarn create strapi-app strapi --quickstart </br>
