@@ -4,9 +4,9 @@
 - 🔭 O Strapi é um Serviço de Gerenciamento de Conteúdo (Content Management Service, ou CMS, em inglês) open-source e headless. Ele permite ao usuário criar APIs de alta qualidade em Javascript, tudo através de uma interface gráfica do usuário, simples e direta. [Strapi](https://docs.strapi.io/dev-docs/installation/cli)
 
 #################setup########## </br>
-- install git [git](https://git-scm.com/downloads)
-- install chocolatey [chocolatey](https://chocolatey.org/install)
-- install vscode (https://code.visualstudio.com/download)
+- install [git](https://git-scm.com/downloads)
+- install  [chocolatey](https://chocolatey.org/install)
+- install [vscode](https://code.visualstudio.com/download)
 - docker install [docker](https://docs.docker.com/engine/reference/commandline/)
 - minikube install [minikube](https://minikube.sigs.k8s.io/docs/start/)
 
