@@ -3,7 +3,7 @@
 
 - 🔭 O Strapi é um Serviço de Gerenciamento de Conteúdo (Content Management Service, ou CMS, em inglês) open-source e headless. Ele permite ao usuário criar APIs de alta qualidade em Javascript, tudo através de uma interface gráfica do usuário, simples e direta. [Strapi](https://docs.strapi.io/dev-docs/installation/cli)
 
-#################setup##########
+#################setup########## </br>
 - install git [git](https://git-scm.com/downloads)
 - install chocolatey [chocolatey](https://chocolatey.org/install)
 - install vscode (https://code.visualstudio.com/download)
@@ -14,12 +14,12 @@
 choco install nodejs-lts
 choco install yarn
 
-##########run app######################
+##########run app###################### </br>
 yarn create strapi-app strapi --quickstart
 yarn add @strapi/plugin-documentation
 yarn develop
 
-##########consumo da api########################
+##########consumo da api######################## </br>
 
 --Windows: </br>
 Invoke-RestMethod -Uri http://localhost:1337/api/cadastros -Method GET -Headers @{
