@@ -3,14 +3,22 @@
 
 - 🔭 O Strapi é um Serviço de Gerenciamento de Conteúdo (Content Management Service, ou CMS, em inglês) open-source e headless. Ele permite ao usuário criar APIs de alta qualidade em Javascript, tudo através de uma interface gráfica do usuário, simples e direta. [Strapi](https://docs.strapi.io/dev-docs/installation/cli)
 
+#################create accoun########## </br>
+Create account [AWS}(https://portal.aws.amazon.com/billing/signup#/start/email)
+Create account [DockerHub](https://hub.docker.com/signup)
+
 #################setup########## </br>
 - install [git](https://git-scm.com/downloads)
+- install [docker](https://docs.docker.com/engine/install/)
 - install [chocolatey](https://chocolatey.org/install)
 - install [vscode](https://code.visualstudio.com/download)
 - install [docker](https://docs.docker.com/engine/reference/commandline/)
 - install [minikube](https://minikube.sigs.k8s.io/docs/start/)
+- insall [kubectl](https://kubernetes.io/docs/tasks/tools/install-kubectl-windows/)
 
-**install yarn and nodejs** </br>
+**install with choco** </br>
+choco install kubernetes-cli </br>
+choco install minikube </br>
 choco install nodejs-lts </br>
 choco install yarn </br>
 
