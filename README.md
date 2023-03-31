@@ -21,6 +21,7 @@ choco install kubernetes-cli </br>
 choco install minikube </br>
 choco install nodejs-lts </br>
 choco install yarn </br>
+choco install terraform </br>
 
 ##########run app###################### </br>
 yarn create strapi-app strapi --quickstart </br>
