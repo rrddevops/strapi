@@ -14,7 +14,8 @@ Create account [DockerHub](https://hub.docker.com/signup)
 - install [vscode](https://code.visualstudio.com/download)
 - install [docker](https://docs.docker.com/engine/reference/commandline/)
 - install [minikube](https://minikube.sigs.k8s.io/docs/start/)
-- insall [kubectl](https://kubernetes.io/docs/tasks/tools/install-kubectl-windows/)
+- install [kubectl](https://kubernetes.io/docs/tasks/tools/install-kubectl-windows/)
+- install [aws cli](https://docs.aws.amazon.com/cli/latest/userguide/getting-started-install.html)
 
 **install with choco** </br>
 choco install kubernetes-cli </br>
