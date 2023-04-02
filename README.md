@@ -32,8 +32,8 @@ yarn develop </br>
 ##########consumo da api######################## </br>
 
 --Windows: </br>
-Invoke-RestMethod -Uri http://localhost:1337/api/cadastros -Method GET -Headers @{
-    Authorization = 'Bearer 4c1936c985f5014dbbbe3d1511b9c005cd2cdde9471d06527dc01d210f6cd6e43b7e71a52df3d6c3c7a484a52f4b434f32695f80229d369dbdfdd7bc866a84e0c67aff6883b0a1fa02239bec02a0136446dcfda00aae6a205ef268ed7ea8f06ac7818a39eb1509e6a40cd79d01d897be018da80a7fe5779a35597698a70df1fb'
+  Invoke-RestMethod -Uri http://localhost:1337/api/cadastros -Method GET -Headers @{
+    Authorization = 'Bearer 19dc05ab17a8778dfda0f98687f70b6ddcf4a1fe9d8a01cc4c75d5c41a5212237ba2818064416a0b06509c9f60fbafa70be6b5a639d538aaa848a8a518f0a8cd2c0cf22e1ea2ad0514ea792481ee541ebd05866b355499b1954ace50ce2db4ee2a82f6627ec7a46c95f9c15907c169b039f72917d807e2e591e33eed2e9a08ef'
     'Content-Type' = 'application/json'
     Accept = 'application/json'
 } | ConvertTo-Json
